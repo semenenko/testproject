@@ -32,5 +32,10 @@ namespace TestProject
         {
             Console.WriteLine("method 1 added");
         }
+
+        public void Method2()
+        {
+            Console.WriteLine("test merging options 2");
+        }
     }
 }
