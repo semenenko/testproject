@@ -13,7 +13,13 @@ namespace TestProject
 
         }
 
+
         public void Foo1()
+        {
+
+        }
+
+        public void Foo2()
         {
 
         }
