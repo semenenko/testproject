@@ -22,5 +22,10 @@ namespace TestProject
         {
 
         }
+
+        public void Method2()
+        {
+            Console.WriteLine("test merging options 2");
+        }
     }
 }
