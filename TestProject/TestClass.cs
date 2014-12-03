@@ -22,5 +22,10 @@ namespace TestProject
         {
 
         }
+
+        public void Foo3()
+        {
+
+        }
     }
 }
