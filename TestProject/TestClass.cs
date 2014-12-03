@@ -27,5 +27,10 @@ namespace TestProject
         {
 
         }
+
+        public void Method1()
+        {
+            Console.WriteLine("method 1 added");
+        }
     }
 }
