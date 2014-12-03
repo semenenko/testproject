@@ -12,6 +12,11 @@ namespace TestProject
         {
 
         }
+        
+        public void Foo1()
+        {
+
+        }
 
         public void Foo2()
         {
@@ -21,6 +26,11 @@ namespace TestProject
         public void Foo3()
         {
 
+        }
+
+        public void Method1()
+        {
+            Console.WriteLine("method 1 added");
         }
 
         public void Method2()
