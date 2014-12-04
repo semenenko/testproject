@@ -8,5 +8,9 @@ namespace TestProject
 {
     class BranchClass
     {
+        public void Foo()
+        {
+
+        }
     }
 }
