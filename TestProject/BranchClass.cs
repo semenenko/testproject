@@ -11,6 +11,11 @@ namespace TestProject
         public void Foo()
         {
 
+        } 
+
+        public void Close()
+        {
+
         }
     }
 }
